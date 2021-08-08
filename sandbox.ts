@@ -66,7 +66,8 @@ let uid: string|number;
 uid = 'accepte les string et les number'
 uid = 27
 
-console.log(mixedArray);
+console.log(mixedArray); 
+
 
 // Objects
 let obj: object;
